@@ -1,0 +1,17 @@
+@font-face {
+    font-family: "Bold";
+    src: url(/assets/fonts/TT\ Norms\ Pro\ Bold.otf);
+  }
+  
+  @font-face {
+    font-family: "Medium";
+    src: url(/assets/fonts/TT\ Norms\ Pro\ Medium.otf);
+  }
+  @font-face {
+    font-family: "Regular";
+    src: url(/assets/fonts/TT\ Norms\ Pro\ Regular.otf);
+  }
+  @font-face {
+    font-family: "Thin";
+    src: url(/assets/fonts/TT\ Norms\ Pro\ Thin.otf);
+  }
